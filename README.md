@@ -1,1 +1,1 @@
-"# d2l-learning" 
+d2l v2 手搓实录
